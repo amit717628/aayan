@@ -20,3 +20,9 @@
 	<br><br>
 	
 </p>
+<p align="center"><br>
+	<br>My Status<br>
+  <a href="https://github.com/AAYAN717628">
+    <img src="https://discord.c99.nl/widget/theme-1/709169539249864775.png"/>
+     </a>
+</p>
