@@ -5,7 +5,7 @@
 
 <p align="center"><br>
   <a href="https://github.com/AAYAN717628">
-    <img src="https://discord.com/users/977267958378283009"/>
+    <img src="https://lanyard.cnrad.dev/api/709169539249864775"/>
      </a>
 </p>
 
@@ -18,6 +18,5 @@
 	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;|
 	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
 	<br><br>
-	<b>/b><br>
-	<br>
+	
 </p>
