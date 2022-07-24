@@ -1,4 +1,4 @@
-# = About Me:
+# About Me:
 I'm Aayan , Currently working in Discord bots<br>From Assam, India, <br>Studying Computer Science<br>Worked at AutoCode Inc as BackEnd Developer <br>
 
 
